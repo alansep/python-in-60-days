@@ -6,6 +6,7 @@ A project of Python studying from a Java developer perspective
 | Day | Date | Learning Summary |
 | :--- | :--- | :--- |
 | 01 | 22/04/2026 | Variables, F-Strings, Lists, and the `in` operator. |
+| 02 | 24/04/2026 | Dynamic Data Structures (List, Dict, Set, Tuple), Unpacking, and Pythonic Mapping. |
 
 ## 🚀 Roadmap: 60 Days of Python (Java Developer Edition)
 
