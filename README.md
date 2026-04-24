@@ -12,7 +12,7 @@ A project of Python studying from a Java developer perspective
 ### Phase 1: Java -> Python Transition (Days 2-10)
 *Focus: Syntax, Dynamic vs Static Typing, and Environment Management.*
 
-- [ ] **Day 2:** Dynamic Data Structures: Lists, Dicts, Sets, and Tuplas (and when to use each).
+- [x] **Day 2:** Dynamic Data Structures: Lists, Dicts, Sets, and Tuplas (and when to use each).
 - [ ] **Day 3:** List Comprehensions and Dict Comprehensions (the "Pythonic way" of doing streams/filters).
 - [ ] **Day 4:** Functions: *Args, **Kwargs, and Type Hinting (essential for Java developers).
 - [ ] **Day 5:** Virtual Environments: Venv, Poetry, and dependency management.
