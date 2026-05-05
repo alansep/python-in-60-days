@@ -7,6 +7,7 @@ A project of Python studying from a Java developer perspective
 | :--- | :--- | :--- |
 | 01 | 22/04/2026 | Variables, F-Strings, Lists, and the `in` operator. |
 | 02 | 24/04/2026 | Dynamic Data Structures (List, Dict, Set, Tuple), Unpacking, and Pythonic Mapping. |
+| 03 | 04/05/2026 | List and Dict Comprehensions (Pythonic way of doing streams/filters) and Ternary Operators. |
 
 ## 🚀 Roadmap: 60 Days of Python (Java Developer Edition)
 
@@ -14,7 +15,7 @@ A project of Python studying from a Java developer perspective
 *Focus: Syntax, Dynamic vs Static Typing, and Environment Management.*
 
 - [x] **Day 2:** Dynamic Data Structures: Lists, Dicts, Sets, and Tuplas (and when to use each).
-- [ ] **Day 3:** List Comprehensions and Dict Comprehensions (the "Pythonic way" of doing streams/filters).
+- [x] **Day 3:** List Comprehensions and Dict Comprehensions (the "Pythonic way" of doing streams/filters).
 - [ ] **Day 4:** Functions: *Args, **Kwargs, and Type Hinting (essential for Java developers).
 - [ ] **Day 5:** Virtual Environments: Venv, Poetry, and dependency management.
 - [ ] **Day 6:** Object-Oriented Programming (OOP): Classes, Mixins, and "Self" vs "This".
